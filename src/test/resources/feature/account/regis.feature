@@ -3,6 +3,7 @@ Feature: Registration functional in Linkedin
   I want to make new account
   So I can see my timeline and post my activity
 
+
   Scenario: Registration Success
     Given I am on the Sign up page account
     When I enter my number or email and password 6 or more character
