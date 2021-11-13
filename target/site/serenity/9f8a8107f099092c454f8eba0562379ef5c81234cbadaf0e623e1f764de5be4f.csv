@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login functional in Linkedin","Login Success","SUCCESS","2021-11-13T20:03:23.716+07:00[Asia/Bangkok]","0.0","0.27"
+"Login functional in Linkedin","Login Failed Case Blank","SUCCESS","2021-11-13T20:03:24.001+07:00[Asia/Bangkok]","0.0","0.09"
+"Login functional in Linkedin","Login Failed Username Incorrectly","SUCCESS","2021-11-13T20:03:24.122+07:00[Asia/Bangkok]","0.0","0.09"
+"Login functional in Linkedin","Login Failed Password Incorrectly","SUCCESS","2021-11-13T20:03:24.24+07:00[Asia/Bangkok]","0.0","0.05"
+"Login functional in Linkedin","Login Blank Case","SUCCESS","2021-11-13T20:03:24.302+07:00[Asia/Bangkok]","0.0","0.05"

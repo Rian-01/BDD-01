@@ -1,0 +1,9 @@
+starter\account\login.class
+starter\story\loginFailCase.class
+starter\story\loginFailPass.class
+starter\account\loginSteps.class
+starter\story\loginFailUser.class
+starter\TestSuite.class
+starter\story\loginBlank.class
+starter\story\loginSuccess.class
+starter\story\registrasi.class
